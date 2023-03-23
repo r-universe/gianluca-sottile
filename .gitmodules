@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "changepointsVar"]
+	path = changepointsVar
+	url = https://github.com/cran/changepointsVar
+	shallow = true
+	registered = true
+[submodule "clustEff"]
+	path = clustEff
+	url = https://github.com/cran/clustEff
+	shallow = true
+	registered = true
+[submodule "islasso"]
+	path = islasso
+	url = https://github.com/cran/islasso
+	shallow = true
+	registered = true
+[submodule "Qest"]
+	path = Qest
+	url = https://github.com/cran/Qest
+	shallow = true
+	registered = true
+[submodule "qrcmNP"]
+	path = qrcmNP
+	url = https://github.com/cran/qrcmNP
+	shallow = true
+	registered = true
