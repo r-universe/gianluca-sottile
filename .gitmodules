@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Qest"]
+	path = Qest
+	url = https://github.com/cran/Qest
 [submodule "changepointsVar"]
 	path = changepointsVar
 	url = https://github.com/cran/changepointsVar
@@ -11,9 +14,6 @@
 [submodule "islasso"]
 	path = islasso
 	url = https://github.com/cran/islasso
-[submodule "Qest"]
-	path = Qest
-	url = https://github.com/cran/Qest
 [submodule "qrcmNP"]
 	path = qrcmNP
 	url = https://github.com/cran/qrcmNP
