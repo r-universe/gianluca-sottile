@@ -13,7 +13,7 @@
 	url = https://github.com/cran/clustEff
 [submodule "islasso"]
 	path = islasso
-	url = https://github.com/cran/islasso
+	url = https://github.com/gianluca-sottile/islasso
 [submodule "qrcmNP"]
 	path = qrcmNP
 	url = https://github.com/cran/qrcmNP
