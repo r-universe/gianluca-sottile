@@ -16,4 +16,4 @@
 	url = https://github.com/gianluca-sottile/islasso
 [submodule "qrcmNP"]
 	path = qrcmNP
-	url = https://github.com/cran/qrcmNP
+	url = https://github.com/gianluca-sottile/qrcmnp
