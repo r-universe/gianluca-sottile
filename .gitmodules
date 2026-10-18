@@ -4,13 +4,13 @@
 	branch = HEAD
 [submodule "Qest"]
 	path = Qest
-	url = https://github.com/cran/Qest
+	url = https://github.com/gianluca-sottile/qest
 [submodule "changepointsVar"]
 	path = changepointsVar
 	url = https://github.com/cran/changepointsVar
 [submodule "clustEff"]
 	path = clustEff
-	url = https://github.com/cran/clustEff
+	url = https://github.com/gianluca-sottile/clusteff
 [submodule "islasso"]
 	path = islasso
 	url = https://github.com/gianluca-sottile/islasso
